@@ -15,6 +15,16 @@
   width: 34% !important;
 }
 .market .right .right-1 {
-  margin-right: 5px;
-  width: 49%;
+  margin-right: 7px;
+  width: 50%;
+}
+.market .bottom {
+  display: flex;
+  justify-content: space-between;
+}
+.market .bottom .b-left {
+  width: 82.3%;
+}
+.market .bottom .b-right {
+  width: 17.2%;
 }

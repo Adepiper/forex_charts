@@ -1,0 +1,11 @@
+.bottom-lead {
+  width: 100%;
+  background-color: #fff;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.bottom-lead span {
+  margin-right: 20px;
+  font-size: 14px;
+}

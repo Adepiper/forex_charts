@@ -3,7 +3,7 @@ import "./OrderTable.css";
 
 const OrderTable = () => {
   return (
-    <div className="order-table my-2">
+    <div className="order-table my-1">
       <h1 className="me-auto px-2">Order Table</h1>
       <div className="price-table">
         <thead>

@@ -1,0 +1,23 @@
+.p-trade {
+  min-height: 30vh;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.p-trade > * {
+  margin-bottom: 10px;
+}
+.p-trade h1 {
+  font-size: 13px;
+  font-weight: 700;
+  margin-top: 10px;
+}
+.p-trade .p-rice {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  font-size: 10px;
+}
