@@ -1,0 +1,8 @@
+.chart {
+  min-height: 55vh;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}

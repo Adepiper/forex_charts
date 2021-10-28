@@ -1,0 +1,15 @@
+.Pair {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+.Pair .pair-name {
+  font-weight: 700;
+  font-size: 15px;
+}
+.Pair .pair-value {
+  font-size: 12px;
+  color: green;
+}
