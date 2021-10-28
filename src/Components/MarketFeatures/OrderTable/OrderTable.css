@@ -50,6 +50,11 @@
 }
 @media only screen and (max-width: 991px) {
   .order-table {
-    min-height: 35.4vh;
+    min-height: 41vh;
   }
 }
+/* @media only screen and (max-width: 768px) {
+  .order-table {
+    
+  }
+} */
