@@ -14,7 +14,7 @@ import "./Market.css";
 const Market = () => {
   return (
     <div className=" market py-1 m-0 p-0">
-      <div className="left col-lg-8">
+      <div className="left ">
         <div className="col-">
           <Pairs />
         </div>
@@ -25,7 +25,7 @@ const Market = () => {
           <Chart />
         </div>
       </div>
-      <div className="right col-md-4 m-0 p-0">
+      <div className="right  m-0 p-0">
         <div className="right-1 col-lg-6">
           <OrderBook />
           <OrderTable />

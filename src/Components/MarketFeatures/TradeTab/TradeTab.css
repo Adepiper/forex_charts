@@ -105,3 +105,23 @@ form .label span {
 .trade-tab .buttons .red {
   background-color: rgb(238, 70, 70);
 }
+@media only screen and (min-width: 1600px) {
+  .trade-tab > * {
+    margin-bottom: 20px;
+  }
+  form .label {
+    font-size: 16px;
+  }
+  .trade-tab form input {
+    height: 35px;
+    font-size: 15px;
+  }
+  .trade-tab .p-rice,
+  .trade-tab .check-d {
+    font-size: 15px;
+  }
+  .trade-tab .buttons button {
+    height: 35px;
+    font-size: 16px;
+  }
+}

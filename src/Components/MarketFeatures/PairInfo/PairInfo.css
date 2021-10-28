@@ -32,3 +32,32 @@ ul {
   flex-wrap: wrap;
   font-size: 11px;
 }
+@media only screen and (min-width: 1600px) {
+  .Pair-info ul li span {
+    font-size: 45px;
+  }
+  .Pair-info ul .nav-link {
+    font-size: 35px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .Pair-info ul li span {
+    font-size: 25px;
+  }
+  .Pair-info ul .nav-link {
+    font-size: 20px;
+  }
+}
+@media only screen and (max-width: 610px) {
+  .info {
+    width: 70%;
+  }
+}
+@media only screen and (max-width: 450px) {
+  .Pair-info ul li span {
+    font-size: 18px;
+  }
+  .Pair-info ul .nav-link {
+    font-size: 15px;
+  }
+}
