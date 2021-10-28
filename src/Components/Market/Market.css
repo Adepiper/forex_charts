@@ -1,0 +1,20 @@
+/* .market {
+  display: flex;
+  justify-content: space-evenly !important;
+} */
+.market {
+  display: flex;
+  flex-wrap: wrap;
+}
+.market .left {
+  margin-right: 5px;
+  width: 65% !important;
+}
+.market .right {
+  display: flex;
+  width: 34% !important;
+}
+.market .right .right-1 {
+  margin-right: 5px;
+  width: 49%;
+}
