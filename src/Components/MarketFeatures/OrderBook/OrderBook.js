@@ -31,8 +31,8 @@ const OrderBook = () => {
           </li>
         </ul>
       </div>
-      <PriceTable pColor="red" value="0.34455" length={6} />
-      <PriceTable pColor="lightgreen" value="0.0004455" length={6} />
+      <PriceTable pColor="red" lv="60366.66" lvColor="rgb(248, 177, 189)" />
+      <PriceTable pColor="lightgreen" lv="60366.66" lvColor="lightgreen" />
     </div>
   );
 };
