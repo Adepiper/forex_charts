@@ -25,3 +25,12 @@
   justify-content: space-between;
   padding: 2px 5px;
 }
+@media only screen and (min-width: 1600px) {
+  .price-table thead th {
+    font-size: 18px;
+  }
+  .price-table tbody td {
+    border-radius: 5px;
+    font-size: 12px;
+  }
+}

@@ -19,3 +19,13 @@
   font-size: 13px;
   font-weight: 700;
 }
+@media only screen and (min-width: 1600px) {
+  .order-book h1 {
+    font-size: 22px;
+  }
+  .order-book div.dropdown {
+    width: 100px;
+    height: 40px;
+    font-size: 10px !important;
+  }
+}

@@ -1,12 +1,12 @@
 .chart {
-	height: 55vh;
-	background: #fff;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	font-size: 50px;
+  height: 55vh;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
 }
 
 .tv-lightweight-charts {
-	height: 50vh !important;
+  height: 50vh !important;
 }

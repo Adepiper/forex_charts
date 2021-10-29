@@ -24,3 +24,16 @@ ul li {
 .navbar .nav-link {
   font-size: 14px !important;
 }
+@media only screen and (min-width: 1600px) {
+  .navbar .nav-link {
+    font-size: 20px !important;
+  }
+  .navbar .navbar-brand {
+    font-size: 30px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .navbar-nav {
+    text-align: left;
+  }
+}
